@@ -463,6 +463,7 @@ IPv6	IPv6
 Rick and Morty	RickandMorty
 uTools	uTool
 uTools	uTools
+tooltip	tooltip
 AirPods	AirPods
 AirPods Pro	AirPodsPro
 AirPods Max	AirPods
@@ -1441,6 +1442,7 @@ ChatGPT	ChatGPT
 OpenAI	OpenAI
 OpenAI Codex	OpenAICodex
 OpenAI ChatGPT	OpenAIChatGPT
+HubGPT	HubGPT
 VoIP	VoIP
 Voice over Internet Protocol	VoIP
 Greasy Fork	GreasyFork
