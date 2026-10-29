@@ -1,0 +1,10 @@
+# Rime dictionary
+# encoding: utf-8
+# 个人园艺品种补充；独立于下载词库，避免重新转换时被覆盖。
+---
+name: plants_personal
+version: "2026-09-21"
+sort: by_weight
+use_preset_vocabulary: false
+...
+阿弗雷	a fu lei	100

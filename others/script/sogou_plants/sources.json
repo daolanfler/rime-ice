@@ -1,0 +1,305 @@
+{
+  "category_url": "https://pinyin.sogou.com/dict/cate/index/16",
+  "downloaded_on": "2026-09-21",
+  "source_count": 37,
+  "original_records": 92024,
+  "unique_records": 66737,
+  "sources": [
+    {
+      "id": "15207",
+      "name": "植物词汇大全【官方推荐】",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=15207&name=%E6%A4%8D%E7%89%A9%E8%AF%8D%E6%B1%87%E5%A4%A7%E5%85%A8%E3%80%90%E5%AE%98%E6%96%B9%E6%8E%A8%E8%8D%90%E3%80%91",
+      "records": 27245,
+      "sha256": "9214b3a840b5a47d39c8972c05560b7e3556a1adf1ae41119c32810e5a91cb69",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/15207"
+    },
+    {
+      "id": "360",
+      "name": "147种水果的名字",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=360&name=147%E7%A7%8D%E6%B0%B4%E6%9E%9C%E7%9A%84%E5%90%8D%E5%AD%97",
+      "records": 128,
+      "sha256": "4983bf17a1979409d7ee1c43a966861697ea184a7fb93dbe21c41febee7da480",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/360"
+    },
+    {
+      "id": "2917",
+      "name": "植物名词大全",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=2917&name=%E6%A4%8D%E7%89%A9%E5%90%8D%E8%AF%8D%E5%A4%A7%E5%85%A8",
+      "records": 430,
+      "sha256": "993f3f23b8d194ac6b9fc85d875673c4a32d9798d26979092c575994a1e284db",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/2917"
+    },
+    {
+      "id": "1347",
+      "name": "园林花草名称词库",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=1347&name=%E5%9B%AD%E6%9E%97%E8%8A%B1%E8%8D%89%E5%90%8D%E7%A7%B0%E8%AF%8D%E5%BA%93",
+      "records": 258,
+      "sha256": "1518c985ace3b8a5a72058c9e75d5f83ed1c2f3ce54956283394a2ea59ea0c3a",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/1347"
+    },
+    {
+      "id": "4519",
+      "name": "花木名称大全",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=4519&name=%E8%8A%B1%E6%9C%A8%E5%90%8D%E7%A7%B0%E5%A4%A7%E5%85%A8",
+      "records": 421,
+      "sha256": "afcd10c857bc8a93292a1a22e98425b3474ab39a488b3a569f1c4c6467a5c5a8",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/4519"
+    },
+    {
+      "id": "8629",
+      "name": "常用植物名",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=8629&name=%E5%B8%B8%E7%94%A8%E6%A4%8D%E7%89%A9%E5%90%8D",
+      "records": 315,
+      "sha256": "b42f3da04cfac1adcf130b804e3cc67188b305cbedef6956f5b1530e16b1e888",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/8629"
+    },
+    {
+      "id": "3817",
+      "name": "花卉名称",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=3817&name=%E8%8A%B1%E5%8D%89%E5%90%8D%E7%A7%B0",
+      "records": 680,
+      "sha256": "c23b00825e4b5cd74a195584a00842097173a2bc488578caf316f521f0f9e250",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/3817"
+    },
+    {
+      "id": "8098",
+      "name": "植物学名词术语",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=8098&name=%E6%A4%8D%E7%89%A9%E5%AD%A6%E5%90%8D%E8%AF%8D%E6%9C%AF%E8%AF%AD",
+      "records": 346,
+      "sha256": "cf3f132ccef1939fa666a6508bf32b89a75d8e9f49fe28ee8359578678b56bbf",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/8098"
+    },
+    {
+      "id": "8097",
+      "name": "植物结构名词",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=8097&name=%E6%A4%8D%E7%89%A9%E7%BB%93%E6%9E%84%E5%90%8D%E8%AF%8D",
+      "records": 106,
+      "sha256": "8240d0395f3ac273538de2522cd91e844b6f40d77bf8121ec07c42af14490d06",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/8097"
+    },
+    {
+      "id": "8093",
+      "name": "花卉名词",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=8093&name=%E8%8A%B1%E5%8D%89%E5%90%8D%E8%AF%8D",
+      "records": 128,
+      "sha256": "8fae17a6ed5142134dcb9cd0819bd2a524925c51d1963fbc9d14c18858051ba9",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/8093"
+    },
+    {
+      "id": "14517",
+      "name": "苗木花卉",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=14517&name=%E8%8B%97%E6%9C%A8%E8%8A%B1%E5%8D%89",
+      "records": 205,
+      "sha256": "8e44fffd6e1d6c6ace1991d74f2e6961fd4629c619741366d674b9f604afbb6a",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/14517"
+    },
+    {
+      "id": "15697",
+      "name": "中国种子植物科属",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=15697&name=%E4%B8%AD%E5%9B%BD%E7%A7%8D%E5%AD%90%E6%A4%8D%E7%89%A9%E7%A7%91%E5%B1%9E",
+      "records": 3728,
+      "sha256": "93d72b97c951f5a1ca61e8d83aa8631a125dc1e68a263766ad2ae3602790971e",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/15697"
+    },
+    {
+      "id": "13757",
+      "name": "东北维管植物",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=13757&name=%E4%B8%9C%E5%8C%97%E7%BB%B4%E7%AE%A1%E6%A4%8D%E7%89%A9",
+      "records": 3945,
+      "sha256": "7ccbbe6eedc15d36ec9adede4e76a779688f5211f4a0928a9de424e2d9229cb6",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/13757"
+    },
+    {
+      "id": "40480",
+      "name": "Flower",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=40480&name=Flower",
+      "records": 57,
+      "sha256": "4a5f858dd6db40f963f8bdd61b1401536c046d4d7c407685d1cf93291a3158fb",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/40480"
+    },
+    {
+      "id": "16844",
+      "name": "海南植物名录",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=16844&name=%E6%B5%B7%E5%8D%97%E6%A4%8D%E7%89%A9%E5%90%8D%E5%BD%95",
+      "records": 3412,
+      "sha256": "b71fdfe6ed7913294133c9408fd6a8a76a926500d193194325d6db05343e65bd",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/16844"
+    },
+    {
+      "id": "49346",
+      "name": "茶树品种词库",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=49346&name=%E8%8C%B6%E6%A0%91%E5%93%81%E7%A7%8D%E8%AF%8D%E5%BA%93",
+      "records": 23,
+      "sha256": "8bbf02e8250dad108cb98fff9ecae479a9c57dd0cee1ee92e7cfa385c9330f98",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/49346"
+    },
+    {
+      "id": "16549",
+      "name": "洛阳牡丹",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=16549&name=%E6%B4%9B%E9%98%B3%E7%89%A1%E4%B8%B9",
+      "records": 120,
+      "sha256": "911bde12b2048a2076501acf8136fccd4382d9d0734a5caa5eb3643867638d3f",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/16549"
+    },
+    {
+      "id": "8094",
+      "name": "木兰品种",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=8094&name=%E6%9C%A8%E5%85%B0%E5%93%81%E7%A7%8D",
+      "records": 153,
+      "sha256": "e40baeddbc2d7e50c05e3dee1b3acdfaea159fd8a0297ab1c9945c56125d3ac0",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/8094"
+    },
+    {
+      "id": "8092",
+      "name": "牡丹名品",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=8092&name=%E7%89%A1%E4%B8%B9%E5%90%8D%E5%93%81",
+      "records": 153,
+      "sha256": "c9c61a03915c3baa23c6c328701d5ad8f407f17ca469ffe6a2f4abbb1b734ecd",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/8092"
+    },
+    {
+      "id": "8095",
+      "name": "建兰名品",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=8095&name=%E5%BB%BA%E5%85%B0%E5%90%8D%E5%93%81",
+      "records": 146,
+      "sha256": "d0c3c76af3ca6f5258a501305494c8512210251d951e360485c2cb24a8b6fff6",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/8095"
+    },
+    {
+      "id": "36025",
+      "name": "多浆植物名称",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=36025&name=%E5%A4%9A%E6%B5%86%E6%A4%8D%E7%89%A9%E5%90%8D%E7%A7%B0",
+      "records": 972,
+      "sha256": "a9b4934ee874c6390bbb015617b7eaa57e4d9d217e38b6b4468d969137a0408f",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/36025"
+    },
+    {
+      "id": "36226",
+      "name": "植物分类",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=36226&name=%E6%A4%8D%E7%89%A9%E5%88%86%E7%B1%BB",
+      "records": 5,
+      "sha256": "7252249a78f4170fcb24f33dbbd0262861f7d60dbdfad109f095ba5051651446",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/36226"
+    },
+    {
+      "id": "48606",
+      "name": "各种植物的研究",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=48606&name=%E5%90%84%E7%A7%8D%E6%A4%8D%E7%89%A9%E7%9A%84%E7%A0%94%E7%A9%B6",
+      "records": 6,
+      "sha256": "3cc4c4fb0e281ffa9952da41192239b5a1e3df355683e7cf7787b6d9048f0463",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/48606"
+    },
+    {
+      "id": "31550",
+      "name": "苔藓名称",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=31550&name=%E8%8B%94%E8%97%93%E5%90%8D%E7%A7%B0",
+      "records": 127,
+      "sha256": "fb4ab1c4d6a1847dcd780d7e3008ae10ea5d721674183d796a8430270d167a98",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/31550"
+    },
+    {
+      "id": "13937",
+      "name": "龙海植物名称",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=13937&name=%E9%BE%99%E6%B5%B7%E6%A4%8D%E7%89%A9%E5%90%8D%E7%A7%B0",
+      "records": 802,
+      "sha256": "dd64f715143a2ec5a8a19aa8e2438580bd0664e1e12781ab4503f980fd2a9801",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/13937"
+    },
+    {
+      "id": "34002",
+      "name": "藻类光合作用词库",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=34002&name=%E8%97%BB%E7%B1%BB%E5%85%89%E5%90%88%E4%BD%9C%E7%94%A8%E8%AF%8D%E5%BA%93",
+      "records": 20,
+      "sha256": "317f09087c99911415ad2d63e9b333f6b4efe19018df50b8022ce111bad5ed75",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/34002"
+    },
+    {
+      "id": "41707",
+      "name": "自然の植物",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=41707&name=%E8%87%AA%E7%84%B6%E3%81%AE%E6%A4%8D%E7%89%A9",
+      "records": 7,
+      "sha256": "41fd0af8c8dca97f49e090ee2eae85df6588bf8e1c181f9ae9448178f384cfb5",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/41707"
+    },
+    {
+      "id": "25689",
+      "name": "桃树品种",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=25689&name=%E6%A1%83%E6%A0%91%E5%93%81%E7%A7%8D",
+      "records": 67,
+      "sha256": "5f84f9718b08b0bc2a453f36d095cca6b409bec64b63ed979596d953682a7214",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/25689"
+    },
+    {
+      "id": "54453",
+      "name": "生石花常用词",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=54453&name=%E7%94%9F%E7%9F%B3%E8%8A%B1%E5%B8%B8%E7%94%A8%E8%AF%8D",
+      "records": 40,
+      "sha256": "034dcdd809be20024bd17b0fc8a95c9af03a876cf2e552fbc145a1afa91c124a",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/54453"
+    },
+    {
+      "id": "78550",
+      "name": "紫芝",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=78550&name=%E7%B4%AB%E8%8A%9D",
+      "records": 5,
+      "sha256": "05fedab69ffb06fb71485865db4325c9862d12d2f48d39618b68d095bbf50c82",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/78550"
+    },
+    {
+      "id": "90652",
+      "name": "苦苣苔科植物词库",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=90652&name=%E8%8B%A6%E8%8B%A3%E8%8B%94%E7%A7%91%E6%A4%8D%E7%89%A9%E8%AF%8D%E5%BA%93",
+      "records": 66,
+      "sha256": "9369eaddedef4c3d4eb52274f1845fce50eef5263b9619bee2f307eb7eee36cc",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/90652"
+    },
+    {
+      "id": "127165",
+      "name": "兰花品种大全",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=127165&name=%E5%85%B0%E8%8A%B1%E5%93%81%E7%A7%8D%E5%A4%A7%E5%85%A8",
+      "records": 126,
+      "sha256": "93e5d7a04717d64a93454cdda78a560998f7cf3df6c05a3956290f484066deed",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/127165"
+    },
+    {
+      "id": "168661",
+      "name": "植物名录中文词库大全",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=168661&name=%E6%A4%8D%E7%89%A9%E5%90%8D%E5%BD%95%E4%B8%AD%E6%96%87%E8%AF%8D%E5%BA%93%E5%A4%A7%E5%85%A8",
+      "records": 39298,
+      "sha256": "250d34c7acc683e8e8e58f80af9341abb5f52d4c53dec8016984250cde250c25",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/168661"
+    },
+    {
+      "id": "168685",
+      "name": "广东维管植物名称大全",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=168685&name=%E5%B9%BF%E4%B8%9C%E7%BB%B4%E7%AE%A1%E6%A4%8D%E7%89%A9%E5%90%8D%E7%A7%B0%E5%A4%A7%E5%85%A8",
+      "records": 6448,
+      "sha256": "6e03c5f6a7b5cca11b7af9cc72d26c35186d1c60c6a03dc06b5a8a22bde4f8a3",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/168685"
+    },
+    {
+      "id": "162743",
+      "name": "拉沙山植物",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=162743&name=%E6%8B%89%E6%B2%99%E5%B1%B1%E6%A4%8D%E7%89%A9",
+      "records": 233,
+      "sha256": "3a73fc8e925e947ab766b004f20064be2341d9876f4ff0d98217ae6e4f34143a",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/162743"
+    },
+    {
+      "id": "173374",
+      "name": "中国植物的名称",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=173374&name=%E4%B8%AD%E5%9B%BD%E6%A4%8D%E7%89%A9%E7%9A%84%E5%90%8D%E7%A7%B0",
+      "records": 1408,
+      "sha256": "02de1be6f361ddcf5b7f9d37bcc9ad4155af70b7571ad9aa0ea5c0f0774bc524",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/173374"
+    },
+    {
+      "id": "175731",
+      "name": "植物生理学",
+      "url": "https://pinyin.sogou.com/d/dict/download_cell.php?id=175731&name=%E6%A4%8D%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A6",
+      "records": 395,
+      "sha256": "43e48c327ce3629e8dfcfbd0a1ff6696dbcd6141f88afd84d33dbac8a3c5abf4",
+      "detail_url": "https://pinyin.sogou.com/dict/detail/index/175731"
+    }
+  ]
+}
